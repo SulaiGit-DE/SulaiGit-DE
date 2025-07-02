@@ -6,6 +6,7 @@
 
 - 🛠️ **Languages:** Python, SQL
 - ☁️ **Cloud:** AWS (Glue, S3, Lambda, Step Functions, Redshift, IAM, Data Services)
+- ⚡ **Big Data:** Spark, Databricks, PySpark
 - 📊 **Specialties:** Data Engineering, ETL, Data Pipelines, Cloud Data Warehousing
 - 🧰 **Tools:** PySpark, Pandas, AWS SDK (boto3), Redshift, SQL Workbench
 
